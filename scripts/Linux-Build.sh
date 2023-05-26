@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd ../HelloWorld && make
+cd HelloWorld && make
